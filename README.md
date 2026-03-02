@@ -6,7 +6,8 @@
 
 \*\*Student:\*\* Riggyan  
 
-\*\*Student ID:\*\* \250325
+\*\*Student ID:\*\* 250325
+
 \*\*Institution:\*\* Softwarica College of IT and E-Commerce  
 
 \*\*Module:\*\* ST4015CMD — Foundations of Computer Science  
